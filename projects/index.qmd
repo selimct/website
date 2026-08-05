@@ -1,0 +1,14 @@
+---
+title: "Projects"
+listing:
+  contents: "*.qmd"
+  exclude: "index.qmd"
+  sort: "date desc"
+  type: grid
+  fields: [image, title, description, date, categories]
+  filter-ui: true
+  sort-ui: true
+page-layout: full
+---
+
+Research projects, software, simulations, experiments, and technical collaborations.
