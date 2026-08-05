@@ -1,0 +1,24 @@
+/* Small, restrained customisations. */
+
+.navbar-brand {
+  font-weight: 650;
+}
+
+.quarto-title-banner {
+  padding-top: 2.5rem;
+  padding-bottom: 2rem;
+}
+
+main.content {
+  line-height: 1.65;
+}
+
+.math.display {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.project-card img,
+.quarto-grid-item img {
+  object-fit: cover;
+}

@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Dr Your Name"
+  site-url: "https://your-domain.dev"
+  description: "Personal academic website of Dr Your Name, physicist."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: projects/index.qmd
+        text: Projects
+      - href: notes/index.qmd
+        text: Notes
+    right:
+      - icon: github
+        href: https://github.com/your-username
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:you@example.org
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Dr Your Name"
+    right: "Built with Quarto and hosted on Cloudflare Pages"
+  search: true
+
+bibliography: publications.bib
+csl: nature.csl
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

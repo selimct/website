@@ -1,0 +1,28 @@
+---
+title: "About"
+---
+
+## Profile
+
+Write a two- or three-paragraph academic biography here.
+
+## Affiliations
+
+- **Current institution**, Department or Group — Position, dates
+- **Previous institution** — Position, dates
+
+## Research interests
+
+- Research field or problem
+- Analytical, numerical, or experimental method
+- Related interdisciplinary topic
+
+## Contact
+
+Email: [you@example.org](mailto:you@example.org)
+
+Institutional address: Your department, institution, city, country.
+
+## Curriculum vitae
+
+[Download my CV](files/cv.pdf){.btn .btn-primary}
