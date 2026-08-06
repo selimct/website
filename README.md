@@ -1,3 +1,6 @@
+[![Deploy website](https://github.com/selimct/website/actions/workflows/deploy.yml/badge.svg)](https://github.com/selimct/website/actions/workflows/deploy.yml)
+
+
 # Physicist website starter
 
 A Quarto academic website deployed with Cloudflare Workers static assets.
