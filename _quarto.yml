@@ -3,9 +3,9 @@ project:
   output-dir: _site
 
 website:
-  title: "Dr Your Name"
-  site-url: "https://your-domain.dev"
-  description: "Personal academic website of Dr Your Name, physicist."
+  title: "Furkan Selim Cetin"
+  site-url: "https://furkancetin.dev"
+  description: "Personal academic website of Furkan Selim Cetin."
   navbar:
     left:
       - href: index.qmd
@@ -20,13 +20,13 @@ website:
         text: Notes
     right:
       - icon: github
-        href: https://github.com/your-username
+        href: https://github.com/selimct
         aria-label: GitHub
       - icon: envelope
-        href: mailto:you@example.org
+        href: mailto:mail@furkancetin.dev
         aria-label: Email
   page-footer:
-    left: "© 2026 Dr Your Name"
+    left: "© 2026 Furkan Selim Cetin"
     right: "Built with Quarto and hosted on Cloudflare Pages"
   search: true
 

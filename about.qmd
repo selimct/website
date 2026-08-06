@@ -19,7 +19,7 @@ Write a two- or three-paragraph academic biography here.
 
 ## Contact
 
-Email: [you@example.org](mailto:you@example.org)
+Email: [mail@furkancetin.dev](mailto:mail@furkancetin.dev)
 
 Institutional address: Your department, institution, city, country.
 

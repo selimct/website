@@ -7,12 +7,12 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:you@example.org
+      href: mailto:mail@furkancetin.dev
     - icon: github
       text: GitHub
-      href: https://github.com/your-username
+      href: https://github.com/selimct
     - text: ORCID
-      href: https://orcid.org/0000-0000-0000-0000
+      href: https://orcid.org/0009-0004-8610-6216
     - text: CV
       href: files/cv.pdf
 ---
