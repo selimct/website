@@ -13,10 +13,7 @@ Research publications, theses, and selected academic seminar work.
 
 **Bachelor's thesis · Heidelberg University · CERN-THESIS-2024-042**
 
-The bachelor thesis develops a neural-network-based track-matching algorithm
-for recovering electron tracks in LHCb's real-time analysis trigger. The method
-achieves electron tracking efficiencies above 90% while keeping the fake-track
-fraction below 15%.
+This thesis presents an improved neural-network-based Track-Matching algorithm to recover and reconstruct electron tracks more efficiently in LHCb's real-time analysis trigger. Electrons emit bremsstrahlung, which complicates their track reconstruction. Currently, the track-reconstruction tuning explicitly excludes electrons, since including them significantly lowers the reconstruction efficiency of other particles. The presented algorithm is intended to be run in a dedicated electron reconstruction in HLT2, thereby circumventing such issues entirely, while allowing all aspects of the algorithm to be optimised to electrons. It is demonstrated that the improved electron Matching algorithm allows for electron tracking efficiencies of above 90%, while simultaneously reducing the fake track fraction to below 15%.
 
 [View the CERN record](https://repository.cern/records/tsgg5-mnd54){.btn .btn-primary}
 [Download the thesis](https://repository.cern/records/tsgg5-mnd54/files/CERN-THESIS-2024-042.pdf?download=1){.btn .btn-outline-primary}
@@ -26,9 +23,11 @@ fraction below 15%.
 ### The Physics of Nuclear Spin Systems
 
 Seminar: *Methods of Physics in Biology and Medicine*, Heidelberg University,
-17 December 2024. The report introduces nuclear spin systems and develops the
-physical principles underlying nuclear magnetic resonance imaging; the slide
-deck presents the accompanying seminar talk.
+17 December 2024. Spin physics is essential for some of the greatest advancements in modern medicine, and science as a whole. The invention
+and continued use of Nuclear Magnetic Resonance (NMR) Imaging (MRI) relies entirely on our understanding of nuclear
+spin systems. The introduction of MRI as a standard imaging technique available almost everywhere in the world has allowed
+for unprecedented improvements in preventative and, by extension, curative medicine. This paper outlines the fundamental
+physics behind nuclear spin systems as used in NMR imaging.
 
 [Download the report](<../files/Cetin,Furkan Selim_4161817_Nuclear Spin Systems_report.pdf>){.btn .btn-primary}
 [View the slides](<../files/Cetin,Furkan Selim_4161817_Nuclear Spin Systems_slides.pdf>){.btn .btn-outline-primary}
