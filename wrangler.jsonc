@@ -1,6 +1,13 @@
 {
   "name": "website",
   "compatibility_date": "2026-08-06",
+  "workers_dev": true,
+  "routes": [
+    {
+      "pattern": "furkancetin.dev",
+      "custom_domain": true
+    }
+  ],
   "assets": {
     "directory": "./_site"
   }
