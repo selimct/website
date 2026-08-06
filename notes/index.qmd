@@ -1,5 +1,5 @@
 ---
-title: "Notes and derivations"
+title: "Notes and course material"
 listing:
   contents: "*.qmd"
   sort: "date desc"
@@ -10,3 +10,13 @@ listing:
 ---
 
 Technical notes, worked derivations, and explanatory material. These notes may be revised over time.
+
+## Course notes
+
+- [Experimental Physics II — lecture notes (PDF, 82 pages)](ExperimentalPhysik2.pdf) — Thermodynamics, electrodynamics, optics, and modern physics. Co-authored with Laura Scholl, Summer 2021.
+
+- [Theoretical Physics II — lecture notes (PDF, 89 pages)](TheoretischePhysik2.pdf) — Analytical mechanics, special relativity, and electrodynamics. Co-authored with Laura Scholl, Summer 2021.
+
+- [Theoretical Physics II — cheat sheet (PDF, 4 pages)](TheoretischePhysik2_Cheatsheet.pdf) — A compact reference for vector calculus and core formulas, Summer 2021.
+
+## Notes and derivations
