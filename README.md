@@ -62,11 +62,13 @@ Create repository secrets:
 - `CLOUDFLARE_API_TOKEN`
 - `CLOUDFLARE_ACCOUNT_ID`
 
-Create repository variable:
+The workflow deploys to the Cloudflare Pages project named `website`. If your
+Pages project has a different name, update `--project-name=website` in
+`.github/workflows/deploy.yml`.
 
-- `CLOUDFLARE_PROJECT_NAME` — for example `academic-site`
-
-For the API token, create a Cloudflare token with permission to deploy Cloudflare Pages projects. After the secrets and variable exist, every push to `main` triggers `.github/workflows/deploy.yml`.
+For the API token, create a Cloudflare token with **Account → Cloudflare Pages →
+Edit** permission. After the secrets exist, every push to `main` triggers
+`.github/workflows/deploy.yml`.
 
 ## 6. Attach the `.dev` domain
 

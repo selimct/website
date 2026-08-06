@@ -1,7 +1,7 @@
 ---
-title: "Dr Your Name"
-subtitle: "Physicist · Research area · Institution"
-image: profile-placeholder.svg
+title: "Furkan Selim Cetin"
+subtitle: "Physicist · Medical Physics and Artificial Intelligence · German Cancer Research Center (DKFZ)"
+image: files/portrait.jpg
 about:
   template: jolla
   links:

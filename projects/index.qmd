@@ -2,7 +2,6 @@
 title: "Projects"
 listing:
   contents: "*.qmd"
-  exclude: "index.qmd"
   sort: "date desc"
   type: grid
   fields: [image, title, description, date, categories]

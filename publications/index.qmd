@@ -1,0 +1,34 @@
+---
+title: "Publications"
+nocite: |
+  @*
+---
+
+Research publications, theses, and selected academic seminar work.
+
+## Thesis
+
+::: {#refs}
+:::
+
+**Bachelor's thesis · Heidelberg University · CERN-THESIS-2024-042**
+
+The bachelor thesis develops a neural-network-based track-matching algorithm
+for recovering electron tracks in LHCb's real-time analysis trigger. The method
+achieves electron tracking efficiencies above 90% while keeping the fake-track
+fraction below 15%.
+
+[View the CERN record](https://repository.cern/records/tsgg5-mnd54){.btn .btn-primary}
+[Download the thesis](https://repository.cern/records/tsgg5-mnd54/files/CERN-THESIS-2024-042.pdf?download=1){.btn .btn-outline-primary}
+
+## Seminar work
+
+### The Physics of Nuclear Spin Systems
+
+Seminar: *Methods of Physics in Biology and Medicine*, Heidelberg University,
+17 December 2024. The report introduces nuclear spin systems and develops the
+physical principles underlying nuclear magnetic resonance imaging; the slide
+deck presents the accompanying seminar talk.
+
+[Download the report](<../files/Cetin,Furkan Selim_4161817_Nuclear Spin Systems_report.pdf>){.btn .btn-primary}
+[View the slides](<../files/Cetin,Furkan Selim_4161817_Nuclear Spin Systems_slides.pdf>){.btn .btn-outline-primary}
