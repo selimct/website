@@ -1,6 +1,6 @@
 # Physicist website starter
 
-A Quarto academic website intended for deployment to Cloudflare Pages.
+A Quarto academic website deployed with Cloudflare Workers static assets.
 
 ## 1. Install Quarto and preview locally
 
@@ -37,20 +37,18 @@ git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 git push -u origin main
 ```
 
-## 4. Create the Cloudflare Pages project
+## 4. Create the Cloudflare Worker
 
 In Cloudflare:
 
 1. Open **Workers & Pages**.
-2. Create a **Pages** project using **Direct Upload**.
-3. Name it, for example, `academic-site`.
-4. Make an initial upload of the locally generated `_site` directory, or run Wrangler locally.
+2. Create a **Worker** named `website`.
 
 Render and deploy manually if desired:
 
 ```bash
 quarto render
-npx wrangler pages deploy _site --project-name=academic-site
+npx wrangler deploy
 ```
 
 ## 5. Configure automatic deployment
@@ -62,17 +60,17 @@ Create repository secrets:
 - `CLOUDFLARE_API_TOKEN`
 - `CLOUDFLARE_ACCOUNT_ID`
 
-The workflow deploys to the Cloudflare Pages project named `website`. If your
-Pages project has a different name, update `--project-name=website` in
-`.github/workflows/deploy.yml`.
+The workflow renders the Quarto site and deploys it to the Worker named
+`website`, as configured in `wrangler.jsonc`.
 
-For the API token, create a Cloudflare token with **Account → Cloudflare Pages →
+For the API token, create a Cloudflare token with **Account → Workers Scripts →
 Edit** permission. After the secrets exist, every push to `main` triggers
 `.github/workflows/deploy.yml`.
 
 ## 6. Attach the `.dev` domain
 
-In Cloudflare, open the Pages project, select **Custom domains**, choose **Set up a domain**, and enter either:
+In Cloudflare, open the Worker, select **Settings → Domains & Routes**, add a
+custom domain, and enter either:
 
 - `your-domain.dev`, or
 - `www.your-domain.dev`
