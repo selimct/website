@@ -4,24 +4,21 @@ title: "About"
 
 ## Profile
 
-Write a two- or three-paragraph academic biography here.
 
 ## Affiliations
 
-- **Current institution**, Department or Group — Position, dates
-- **Previous institution** — Position, dates
+- **German Cancer Research Center DKFZ**, 7 Tesla MRI — Master's Student
+- **LHCb Collaboration**, Heidelberg University — Bachelor's Student
 
 ## Research interests
 
-- Research field or problem
-- Analytical, numerical, or experimental method
-- Related interdisciplinary topic
+- Medical Physics, Machine Learning
 
 ## Contact
 
 Email: [mail@furkancetin.dev](mailto:mail@furkancetin.dev)
 
-Institutional address: Your department, institution, city, country.
+Institutional address: Medical Physics in Radiology, DKFZ, Heidelberg, Germany.
 
 ## Curriculum vitae
 
