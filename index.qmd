@@ -11,6 +11,12 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/selimct
+    - icon: gitlab
+      text: GitLab
+      href: https://gitlab.com/selimct
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/furkanselimcetin
     - text: ORCID
       href: https://orcid.org/0009-0004-8610-6216
     - text: CV
