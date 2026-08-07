@@ -22,6 +22,12 @@ website:
       - icon: github
         href: https://github.com/selimct
         aria-label: GitHub
+      - icon: gitlab
+        href: https://gitlab.com/selimct
+        aria-label: GitLab
+      - icon: linkedin
+        href: https://www.linkedin.com/in/furkanselimcetin
+        aria-label: LinkedIn
       - icon: envelope
         href: mailto:mail@furkancetin.dev
         aria-label: Email
