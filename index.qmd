@@ -23,16 +23,16 @@ about:
       href: files/cv.pdf
 ---
 
-I am a physicist working on **your principal research areas**. My work concerns a concise description of the scientific problems you study and the methods you use.
+I am a physicist working at the intersection of **medical physics and machine learning**. I am currently a master's student in 7 Tesla MRI at the German Cancer Research Center (DKFZ), following earlier work on electron track reconstruction for the LHCb Collaboration.
 
 ## Current work
 
-- **Project A:** one-sentence description.
-- **Project B:** one-sentence description.
-- **Research theme:** one-sentence description.
+- **7 Tesla MRI:** Master's research in Medical Physics in Radiology at DKFZ.
+- **ParquetAnnotations:** A desktop application for visualising ECG and pulse data with annotation markers.
+- **Parquet Viewer:** A Linux-first application for browsing and filtering Apache Parquet files.
 
 ## Selected outputs
 
-- A representative publication or preprint.
-- A software package, dataset, or experimental result.
-- A recent technical note or derivation.
+- [Bachelor's thesis: Electron Track Reconstruction Studies and Improvement for LHCb's Real-Time Analysis Trigger](https://repository.cern/records/tsgg5-mnd54)
+- [ParquetAnnotations](projects/parquet-annotations.qmd) and [Parquet Viewer](projects/parquet-viewer.qmd)
+- [The Physics of Nuclear Spin Systems](publications/index.qmd#the-physics-of-nuclear-spin-systems)

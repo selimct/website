@@ -3,11 +3,19 @@ title: "ParquetAnnotations"
 description: "A native desktop application for visualising ECG and pulse data with annotation markers from Parquet files."
 date: 2026-08-04
 categories: [open source, C++, Qt, medical data]
+image: ../files/ParquetAnnotations_wMarkers.png
+image-alt: "ParquetAnnotations displaying ECG and pulse signals with annotation markers"
 ---
 
 ParquetAnnotations is an interactive Linux desktop application for inspecting
 ECG and pulse signals stored in Apache Parquet files. It overlays the ECG
 waveform, pulse signal, and target annotations in a single responsive plot.
+
+## Screenshots
+
+![ECG and pulse signals with target annotations.](../files/ParquetAnnotations.png)
+
+![Interactive false-positive, false-negative, and custom annotation markers.](../files/ParquetAnnotations_wMarkers.png)
 
 ## Features
 

@@ -3,11 +3,17 @@ title: "Parquet Viewer"
 description: "A Linux-first desktop application for browsing, searching, and filtering Apache Parquet files without writing SQL."
 date: 2026-08-04
 categories: [open source, C++, Qt, data tools]
+image: ../files/ParquetViewer.png
+image-alt: "Parquet Viewer displaying a Parquet dataset and visual filters"
 ---
 
 Parquet Viewer is a native desktop application for exploring Apache Parquet
 files as tables. It is designed for Fedora and Ubuntu users who need a visual
 workflow for inspecting large datasets without writing SQL queries.
+
+## Screenshot
+
+![A Parquet dataset displayed with paging, search, and visual filtering controls.](../files/ParquetViewer.png)
 
 ## Features
 
