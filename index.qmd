@@ -1,6 +1,6 @@
 ---
 title: "Furkan Selim Cetin"
-subtitle: "Physicist · Medical Physics and Artificial Intelligence · German Cancer Research Center (DKFZ)"
+subtitle: "Physicist"
 image: files/portrait.jpg
 about:
   template: jolla
@@ -23,7 +23,7 @@ about:
       href: files/cv.pdf
 ---
 
-I am a physicist working at the intersection of **medical physics and machine learning**. I am currently a master's student in 7 Tesla MRI at the German Cancer Research Center (DKFZ), following earlier work on electron track reconstruction for the LHCb Collaboration.
+I am a physicist working at the intersection of **medical physics and machine learning**. I am currently a master's student at the 7 Tesla MRI group at the German Cancer Research Center (DKFZ), following earlier work on electron track reconstruction for the LHCb Collaboration.
 
 ## Current work
 

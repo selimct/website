@@ -4,21 +4,28 @@ title: "About"
 
 ## Profile
 
+I am a physics master's student working at the intersection of medical imaging,
+machine learning, and scientific computing. My current research at the German
+Cancer Research Center (DKFZ) focuses on 7 Tesla MRI. Previously, I worked on
+neural-network-based electron track reconstruction for the LHCb Collaboration at
+CERN. Alongside my research, I develop open-source tools for exploring and
+visualising scientific and biomedical data.
 
 ## Affiliations
 
 - **German Cancer Research Center DKFZ**, 7 Tesla MRI — Master's Student
-- **LHCb Collaboration**, Heidelberg University — Bachelor's Student
+- **Heidelberg University**, LHCb Collaboration — Bachelor's Student
 
 ## Research interests
 
-- Medical Physics, Machine Learning
+- Medical Physics
+- Machine Learning
 
 ## Contact
 
 Email: [mail@furkancetin.dev](mailto:mail@furkancetin.dev)
 
-Institutional address: Medical Physics in Radiology, DKFZ, Heidelberg, Germany.
+Current Affiliation: Medical Physics in Radiology, DKFZ, Heidelberg, Germany.
 
 ## Curriculum vitae
 
