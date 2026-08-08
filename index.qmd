@@ -28,7 +28,7 @@ I am a physicist working at the intersection of **medical physics and machine le
 ## Current work
 
 - **7 Tesla MRI:** Master's research in Medical Physics in Radiology at DKFZ.
-- **ParquetAnnotations:** A desktop application for visualising ECG and pulse data with annotation markers.
+- **ParquetAnnotations:** A Linux-first application for visualising ECG and pulse data with annotation markers.
 - **Parquet Viewer:** A Linux-first application for browsing and filtering Apache Parquet files.
 
 ## Selected outputs
